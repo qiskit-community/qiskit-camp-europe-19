@@ -9,7 +9,11 @@ At the behing of the hackathon, the project should have no more than 5 members.
 
 ## My team is complete
 
-Ask an IBMer in the channel `#qiskit-camp-europe` (qiskit.slack.com) to remove the `members wanted`.
+Ask an IBMer in the channel `#qiskit-camp-europe` (qiskit.slack.com) to remove the label `members wanted`.
+
+## The project is ready. Let's hack!
+
+After the project is defined and the team is complete, you can sk an IBMer in the channel `#qiskit-camp-europe` (qiskit.slack.com) to add the label `group ready`. This should happend before the group formation stage finished, around noon of the first day. From this point on, you can use the issue to communicate progress as additional comments.
 
 ## The team needs a coach
 
