@@ -18,7 +18,7 @@ assignees: ''
 
  - @githubhandle <!-- ⚠️ Use github handlers and feel free to and contact information, like the slack handler -->
  - @githubhandle - Slack: `@slackhandle` email: `example@example.com`
- - IBM Couch: @githubhandle <!-- ⚠️ Before the final submission, the project needs to have a couch -->
+ - IBM Coach: @githubhandle <!-- ⚠️ Before the final submission, the project needs to have a couch -->
 
 # Deliverable
 <!-- A paper, a mobile app, a Terra module, etc -->
