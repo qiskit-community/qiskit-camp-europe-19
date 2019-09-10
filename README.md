@@ -5,7 +5,7 @@
 Open an issue using the `New project template` template.
 Don't worry if your team is not complete yet.
 Tag your project with `members wanted` and describe what kind of member are your searching for in the `Members` section.
-At the behing of the hackathon, the project should have no more than 5 members.
+At the beginning of the hackathon, the project should have no more than 5 members.
 
 ## My team is complete
 
@@ -13,7 +13,7 @@ Ask an IBMer in the channel `#qiskit-camp-europe` (qiskit.slack.com) to remove t
 
 ## The project is ready. Let's hack!
 
-After the project is defined and the team is complete, you can sk an IBMer in the channel `#qiskit-camp-europe` (qiskit.slack.com) to add the label `group ready`. This should happend before the group formation stage finished, around noon of the first day. From this point on, you can use the issue to communicate progress as additional comments.
+After the project is defined and the team is complete, you can ask an IBMer in the channel `#qiskit-camp-europe` (qiskit.slack.com) to add the label `group ready`. This should happen before the group formation stage is finished, around noon of the first day. From this point on, you can use the issue to communicate progress as additional comments.
 
 ## The team needs a coach
 
